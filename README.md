@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My-LibSpace
 
 # My Libspace
@@ -62,3 +63,6 @@ npm run start or node index.js
 ```
 
 ```
+=======
+# Libspace
+Library management backend project built with Node.js, Express, MongoDB.
